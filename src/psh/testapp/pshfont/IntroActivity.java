@@ -23,7 +23,7 @@ public class IntroActivity extends Activity {
 		if (typeface2 == null)
 			typeface2 = Typeface.createFromAsset(getAssets(), TYPEFACE_NAME2);
 	}
-
+/*과연 이것이 온라인으로 들갈까?*/
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
